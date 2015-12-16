@@ -1,0 +1,23 @@
+{
+  "name": "GhuGHu",
+  "description": "A Bangladeshi Startup",
+  "main": "",
+  "authors": [
+    "Aman Ullah"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/amanix007/ghughu",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "slick-carousel": "~1.5.9"
+  }
+}
