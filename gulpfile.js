@@ -1,7 +1,6 @@
 var gulp = require('gulp'),
 jade = require('gulp-jade'),
 sass = require('gulp-sass'),
-plumber = require('gulp-plumber'),
 connect = require('gulp-connect');
 
 
@@ -40,7 +39,7 @@ gulp.task('watch', function(){
 
 gulp.task('connect', function() {
     return connect.server({
-        root: ['builds'],
+        root: ['./'],
         port: 8888, // optional
         livereload: false
     });

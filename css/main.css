@@ -596,40 +596,40 @@ textarea.form-control:active {
 /*----------------------------------------------------------------------------------------
             Contact
 ----------------------------------------------------------------------------------------*/
-/* line 588, stdin */
+/* line 587, stdin */
 .contact .logo {
   width: 120px;
   margin-bottom: 50px;
   display: inline-block; }
 
-/* line 594, stdin */
+/* line 593, stdin */
 .contact .logo img {
   max-width: 100%; }
 
-/* line 597, stdin */
+/* line 596, stdin */
 .contact .contact_info p {
   font-size: 18px;
   margin-bottom: 15px; }
 
-/* line 601, stdin */
+/* line 600, stdin */
 .contact .contact_info .name {
   font-size: 30px;
   margin-bottom: 30px;
   color: #4c4c4c; }
 
-/* line 607, stdin */
+/* line 606, stdin */
 #map {
   height: 380px;
   width: 100%;
   padding: 0 15px; }
 
-/* line 613, stdin */
+/* line 612, stdin */
 .contact .contact_info .name {
   font-size: 25px;
   margin-bottom: 15px;
   color: #4c4c4c; }
 
-/* line 618, stdin */
+/* line 617, stdin */
 .form-success, .form-error {
   position: absolute;
   top: -40px;
@@ -644,20 +644,20 @@ textarea.form-control:active {
 /*----------------------------------------------------------------------------------------
             Crew SEction
 ----------------------------------------------------------------------------------------*/
-/* line 634, stdin */
+/* line 633, stdin */
 .member {
   margin-bottom: 60px; }
 
-/* line 637, stdin */
+/* line 636, stdin */
 .member p {
   margin-top: 5px; }
 
-/* line 640, stdin */
+/* line 639, stdin */
 .member h5 {
   margin-bottom: 5px;
   margin-top: 15px; }
 
-/* line 645, stdin */
+/* line 644, stdin */
 .member .col-md-6:last-child:before {
   content: "";
   height: 4px;
@@ -669,7 +669,7 @@ textarea.form-control:active {
   opacity: 0;
   transition: all 400ms ease-in; }
 
-/* line 657, stdin */
+/* line 656, stdin */
 .member:hover .col-md-6:last-child:before {
   transition: all 400ms ease-in;
   opacity: 1;
@@ -678,45 +678,45 @@ textarea.form-control:active {
 /*----------------------------------------------------------------------------------------
             Footer
 ----------------------------------------------------------------------------------------*/
-/* line 666, stdin */
+/* line 665, stdin */
 .soc-list {
   display: inline; }
 
-/* line 669, stdin */
+/* line 668, stdin */
 .soc-list li {
   display: inline-block;
   margin: 10px 0; }
 
-/* line 674, stdin */
+/* line 673, stdin */
 .soc-list li a {
   padding: 7px;
   opacity: 0.8;
   font-size: 25px; }
 
-/* line 680, stdin */
+/* line 679, stdin */
 .soc-list li a:hover {
   opacity: 1;
   color: #ffffff; }
 
-/* line 685, stdin */
+/* line 684, stdin */
 .footer img.logo {
   float: left;
   margin: 0 20px 0 0;
   height: 55px; }
 
-/* line 690, stdin */
+/* line 689, stdin */
 .copyright .home:hover {
   color: #ffffff; }
 
 @media (max-width: 992px) {
-  /* line 695, stdin */
+  /* line 694, stdin */
   .footer .row [class^=col-] {
     text-align: center;
     padding-bottom: 20px; }
-  /* line 699, stdin */
+  /* line 698, stdin */
   .footer img.logo, .soc-list li {
     float: none; }
-  /* line 702, stdin */
+  /* line 701, stdin */
   .footer .copyright > a {
     display: block;
     margin-bottom: 30px; } }
